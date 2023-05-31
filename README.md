@@ -1,1 +1,4 @@
-# buat_portofolio1
+# PRAKTIKUM 7 MATA KULIAH SISTEM PENDUKUNG KEPUTUSAN
+Nama : Amelia Nihayyatul Sholehah
+NIM : G.211.20.0069
+Kelas : B
